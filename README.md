@@ -26,5 +26,39 @@
 |     |                                   |     |
 |     | Kerninghan & Ritchie, 2nd ed      | 288 |
 
+---
+
+|     | Using C on the UNIX System        |     |
+| --- | ---                               | --- |
+|     |                                   |     |
+|     | Preface                           |xiii |
+|     |                                   |     |
+|   1 | Introduction                      |   1 |
+|   2 | The Standard I/O Library          |   5 |
+|   3 | Low-Level I/O                     |  17 |
+|   4 | Files and Directories             |  25 |
+|   5 | Device I/O Control                |  41 |
+|   6 | Information About Users           |  61 |
+|   7 | Telling Time and Timing Things    |  69 |
+|   8 | Processing Signals                |  75 |
+|   9 | Executing Programs                |  93 |
+|  10 | Job Control                       | 103 |
+|  11 | Interprocess Communication        | 117 |
+|  12 | Networking                        | 139 |
+|  13 | The File System                   | 151 |
+|  14 | Miscellaneous Routines            | 173 |
+|     |                                   |     |
+|   A | Calling FORTRAN From C            | 183 |
+|   B | Using Berkeley UNIX Pseudo Terminals | 191 |
+|   C | Reading Kernel Data Structures    | 197 |
+|   D | Berkeley UNIX Directory Compatibility Routines  | 201 |
+|   E | Interval Timer Version of nap()   | 205 |
+|     |                                   |     |
+|     | Bibliography                      | 207 |
+|     | Colophon                          | 209 |
+|     |                                   |     |
+|     | David A. Curry                    | 230 |
+
+---
 
 

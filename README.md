@@ -85,5 +85,48 @@
 |     |                                   |     |
 |     | Brian W. Kernighan & Rob Pike     | 369 |
 
+---
+
+|     | C in a Nutshell                   |     |
+| --- | ---                               | --- |
+|     |                                   |     |
+|     | Preface                           | vii |
+|     |                                   |     |
+|   I | Language                          |     |
+|     |                                   |     |
+|   1 | Language Basics                   |   3 |
+|   2 | Types                             |  23 |
+|   3 | Literals                          |  39 |
+|   4 | Type Conversions                  |  49 |
+|   5 | Expressions and Operators         |  67 |
+|   6 | Statements                        |  99 |
+|   7 | Functions                         | 113 |
+|   8 | Arrays                            | 129 |
+|   9 | Pointers                          | 141 |
+|  10 | Structures, Unions, and Bit-Fields  | 159 |
+|  11 | Declarations                      | 175 |
+|  12 | Dynamic Memory Management         | 193 |
+|  13 | Input and Output                  | 209 |
+|  14 | Multithreading                    | 239 |
+|  15 | Preprocessing Directives          | 261 |
+|     |                                   |     |
+|  II | Standard Library                  |     |
+|     |                                   |     |
+|  16 | The Standard Headers              | 283 |
+|  17 | Functions at a Glance             | 321 |
+|  18 | Standard Library Functions        | 349 |
+|     |                                   |     |
+| III | Basic Tools                       |     |
+|     |                                   |     |
+|  19 | Compiling with GCC                | 669 |
+|  20 | Using make to Build C Programs    | 695 |
+|  21 | Debugging C Programs with GDB     | 731 |
+|  22 | Using an IDE with C               | 767 |
+|     |                                   |     |
+|     | Index                             | 777 |
+|     |                                   |     |
+| 2016| Peter Prinz & Tony Crawford, 2nd ed | 823 |
+
+---
 
 

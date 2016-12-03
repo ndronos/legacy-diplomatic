@@ -411,4 +411,26 @@
 
 ---
 
+|     | The C Book                  |     |
+|---  | ---                         | --- |
+||||
+|     | Preface                     |   1 |
+||||
+|   1 | An Introduction to C        |   9 |
+|   2 | Variables and Arithmetic    |  31 |
+|   3 | Control of Flow and Logical Expressions   |  81 |
+|   4 | Functions                   | 101 |
+|   5 | Arrays and Pointers         | 131 |
+|   6 | Structured Data Types       | 173 |
+|   7 | The Preprocessor            | 205 |
+|   8 | Specialized Areas of C      | 223 |
+|   9 | Libraries                   | 247 |
+|  10 | Complete Programs in C      | 305 |
+||||
+|     | Answers to Exercises        | 333 |
+||||
+|1991| Banahan, Brady, Doran        | 359 |
+
+---
+
 

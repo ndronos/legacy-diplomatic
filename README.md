@@ -293,4 +293,53 @@
 
 ---
 
+|     | Practical C Programming             |     |
+| --- | ---                                 | --- |
+||||
+|     | Preface                             |  xv |
+||||
+|   I | Basics                              |   1 |
+||||
+|   1 | What is C?                          |   3 |
+|   2 | Basics of Program Writing           |  11 |
+|   3 | Style                               |  38 |
+|   4 | Basic Declarations and Expressions  |  49 |
+|   5 | Arrays, Qualifiers, and Reading Numbers   |  63 |
+|   6 | Decision and Control Statements     |  84 |
+|   7 | Programming Process                 |  95 |
+||||
+|  II | Simple Programming                  | 113 |
+|   8 | More Control Statements             | 115 |
+|   9 | Variable Scope and Functions        | 127 |
+|  10 | C Preprocessor                      | 140 |
+|  11 | Bit Operations                      | 156 |
+|  12 | Advanced Types                      | 173 |
+|  13 | Simple Pointers                     | 183 |
+|  14 | File Input/Output                   | 209 |
+|  15 | Debugging and Optimization          | 229 |
+|  16 | Floating Point                      | 265 |
+||||
+| III | Advanced Programming Concepts       | 277 |
+|  17 | Advanced Pointers                   | 279 |
+|  18 | Modular Programming                 | 304 |
+|  19 | Ancient Compilers                   | 329 |
+|  20 | Portability Problems                | 337 |
+|  21 | C's Dustier Corners                 | 344 |
+|  22 | Putting It All Together             | 348 |
+|  23 | Programming Adages                  | 382 |
+||||
+|  IV | Other Language Features             | 387 |
+||||
+|   A | ASCII Table                         | 389 |
+|   B | Ranges and Parameter Passing Conversions  | 391 |
+|   C | Operator Precedence Rules           | 393 |
+|   D | A Program to Compute a Sine Using a Power Series    |     |
+||||
+|     | Glossary                            | 399 |
+|     | Index                               | 421 |
+||||
+|1997 | Steve Oualline 3rd ed               | 456 |
+
+---
+
 

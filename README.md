@@ -68,6 +68,21 @@
 |     | Using The GNU Compiler Collection |     |
 ||||
 
+|     | 04 C Reference (ISO-IEC Standards)|     |
+| --- | ---                               | --- |
+||||
+|| 9899-1990         ||
+|| 9899-1990-TC1     ||
+|| 9899-1990-TC2     ||
+|| 9899-1999         ||
+|| 9899-1999-TC1     ||
+|| 9899-1999-TC2     ||
+|| 9899-1999-TC3     ||
+|| 9899-2011-Draft   ||
+|| 9899-2011-TC      ||
+||||
+
+
 ---
 
 |     | The C Programming Language        |     |

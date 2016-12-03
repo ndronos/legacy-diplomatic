@@ -342,4 +342,41 @@
 
 ---
 
+|     | Programming in C                    |     |
+| --- | ---                                 | --- |
+||||
+|     | Preface                             |xvii |
+||||
+|   1 | Introduction                        |   1 |
+|   2 | Some Fundamentals                   |   5 |
+|   3 | Compiling and Running Your First Program  |   11 |
+|   4 | Variables, Data Types, and Arithmetic Expressions     |  21 |
+|   5 | Program Looping                     |  43 |
+|   6 | Making Decisions                    |  65 |
+|   7 | Working with Arrays                 |  95 |
+|   8 | Working with Functions              | 119 |
+|   9 | Working with Structures             | 165 |
+|  10 | Character Strings                   | 195 |
+|  11 | Pointers                            | 235 |
+|  12 | Operations on Bits                  | 279 |
+|  13 | The Preprocessor                    | 299 |
+|  14 | More on Data Types                  | 321 |
+|  15 | Working with Larger Programs        | 333 |
+|  16 | Input and Output Operations in C    | 347 |
+|  17 | Miscellaneous and Advanced Features | 373 |
+|  18 | Debugging Programs                  | 389 |
+|  19 | Object-Oriented Programming         | 411 |
+||||
+|   A | C Language Summary                  | 425 |
+|   B | The Standard C Library              | 467 |
+|   C | Compiling Programs with gcc         | 493 |
+|   D | Common Programming Mistakes         | 497 |
+|   E | Resources                           | 501 |
+||||
+|     | Index                               | 505 |
+||||
+|2005 | Stephen G. Kochan                   | 564 |
+
+---
+
 

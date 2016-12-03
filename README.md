@@ -129,4 +129,37 @@
 
 ---
 
+|     | A Book on C                       |     |
+| --- | ---                               | --- |
+|     |                                   |     |
+|     | Preface                           |xvii |
+|     |                                   |     |
+|   0 | Starting from Zero                |   1 |
+|   1 | An Overview of C                  |   5 |
+|   2 | Lexical Elements, Operators, and the C System   |  69 |
+|   3 | The Fundamental Data Types        | 107 |
+|   4 | Flow of Control                   | 147 |
+|   5 | Functions                         | 197 |
+|   6 | Arrays, Pointers, and Strings     | 245 |
+|   7 | Bitwise Operators and Enumeration Types | 331 |
+|   8 | The Preprocessor                  | 365 |
+|   9 | Structures and Unions             | 407 |
+|  10 | Structures and List Processing    | 447 |
+|  11 | Input/Output and The Operating System   | 493 |
+|  12 | Advanced Applications             | 555 |
+|  13 | Moving from C to C++              | 593 |
+|  14 | Moving from C to Java             | 625 |
+|     |                                   |     |
+|   A | The Standard Library              | 641 |
+|   B | Language Syntax                   | 685 |
+|   C | ANSI C Compared to Traditional C  | 693 |
+|   D | ASCII Character Codes             | 703 |
+|   E | Operator Precedence and Associativity | 705 |
+|     |                                   |     |
+|     | Index                             | 707 | 
+|     |                                   |     |
+|1998 | Al Kelley & Ira Pohl, 4th ed      | 376 |
+
+---
+
 

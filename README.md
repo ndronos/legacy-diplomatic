@@ -57,9 +57,16 @@
 |     | C Pocket Reference - C Syntax and Fundamentals |     |
 |     | The C Answer Book                 |     |
 |     | The C Programming Language        |     |
+||||
 
-
-
+|     | 04 C Reference (GNU)              |     |
+| --- | ---                               | --- |
+||||
+|     | The C Preprocessor                |     |
+|     | The GNU C Library Reference Manual      |      |
+|     | The GNU C Reference Manual        |     |
+|     | Using The GNU Compiler Collection |     |
+||||
 
 ---
 

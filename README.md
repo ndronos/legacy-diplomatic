@@ -10,6 +10,20 @@
 |     | C in a Nutshell                   |     |
 ||||
 
+|	  | 01 Beginner C					  |		|
+| --- | ---                               | --- |
+||||
+|     | A Book on C                       |     |
+|     | C How to Program                  |     |
+|     | C Programming - A Modern Approach |     |
+|     | Head First C                      |     |
+|     | Practical C Programming           |     |
+|     | Programming in C                  |     |
+|     | C Primer Plus                     |     |
+|     | The C Book                        |     |
+||||
+
+
 
 ---
 

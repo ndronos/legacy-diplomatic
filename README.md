@@ -50,6 +50,16 @@
 |     | X86 Assembly Language and C Fundamentals |     |
 ||||
 
+|     | 04 C Reference (General C)        |     |
+| --- | ---                               | --- |
+||||
+|     | C - A Reference Manual            |     |
+|     | C Pocket Reference - C Syntax and Fundamentals |     |
+|     | The C Answer Book                 |     |
+|     | The C Programming Language        |     |
+
+
+
 
 ---
 

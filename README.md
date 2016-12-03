@@ -162,4 +162,56 @@
 
 ---
 
+|     | C How to Program                  |     |
+| --- | ---                               | --- |
+||||
+|     | Preface                           | xix |
+||||
+|   1 | Introduction to Computers, the Internet and the Web |   1 |
+|   2 | Introduction to C Programming     |  40 |
+|   3 | Structured Program Development in C     |  70 |
+|   4 | C Program Control                 | 114 |
+|   5 | C Functions                       | 158 |
+|   6 | C Arrays                          | 216 |
+|   7 | C Pointers                        | 277 |
+|   8 | C Characters and Strings          | 334 |
+|   9 | C Formatted Input/Output          | 379 |
+|  10 | C Structures, Unions, Bit Manipulation and Enumerations   | 405 |
+|  11 | C File Processing                 | 441 |
+|  12 | C Data Structures                 | 476 |
+|  13 | C Preprocessor                    | 517 |
+|  14 | Other C Topics                    | 529 |
+||||
+|     | C++ Object-Based Programming      |     |
+||||
+|  15 | C++ as a Better C; Introducing Object Technology    | 547 |
+|  16 | Introduction to Classes, Objects and Strings  | 586 |
+|  17 | Classes: A Deeper Look, Part I    | 623 |
+|  18 | Classes: A Deeper Look, Part II   | 658 |
+|  19 | Operator Overloading: Class string      | 695 |
+||||
+|     | C++ Object-Oriented Programming   |     |
+||||
+|  20 | Object-Oriented Programming: Inheritance      | 743 |
+|  21 | Object-Oriented Programming: Polymorphism     | 778 |
+|  22 | Templates                         | 823 |
+|  23 | Stream Input/Output               | 839 |
+|  24 | Exception Handling: A Deeper Look | 876 |
+||||
+|   A | Operator Precedence Charts        | 902 |
+|   B | ASCII Character Set               | 906 |
+|   C | Number Systems                    | 907 |
+|   D | Gaming Programming: Solving Sudoku      | 920 |
+|     | Appendices on the Web             | 929 |
+|   E | Sorting: A Deeper Look            |     |
+|   F | Introduction to the New C Standard      |     |
+|   G | Using the Visual Studio Debugger  |     |
+|   H | Using the GNU Debugger            |     |
+||||
+|     | Index                             | 930 |
+||||
+|2013 | Paul Deitel, Harvey Deitel        | 977 |
+
+---
+
 

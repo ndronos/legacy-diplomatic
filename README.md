@@ -82,6 +82,29 @@
 || 9899-2011-TC      ||
 ||||
 
+|     | 00 General Programming            |     |
+| --- | ---                               | --- |
+||||
+|     | The Art of Computer Programming, Supplement Fascicles                        ||
+|     | The Art of Computer Programming, Volume 01 Fundamental Algorithms            ||
+|     | The Art of Computer Programming, Volume 02 Seminumerical  Algorithms         ||
+|     | The Art of Computer Programming, Volume 03 Sorting and Searching             ||
+|     | The Art of Computer Programming, Volume 04a Combinatorial Algorithms Part 1  ||
+|     | Code Complete                 ||
+|     | Concrete Mathematics          ||
+|     | Design Patterns               ||
+|     | The Elements of Programming Style   ||
+|     | Introduction to Algorithms    ||
+|     | More Programming Pearls       ||
+|     | The Practice of Programming   ||
+|     | The Pragmatic Programmer      ||
+|     | Programming Pearls            ||
+|     | Structure and Interpretation of Computer Programs    ||
+|     | The Mythical Man Month        ||
+|     | Write Great Code Volume 01    ||
+|     | Write Great Code Volume 02    ||
+||||
+
 
 ---
 

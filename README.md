@@ -23,6 +23,17 @@
 |     | The C Book                        |     |
 ||||
 
+|     | 02 Intermediate C                 |     |
+| --- | ---                               | --- |
+||||
+|     | 21st Century C                    |     |
+|     | C Interfaces and Implementations  |     |
+|     | The C Puzzle Book                 |     |
+|     | C Traps and Pitfalls              |     |
+|     | Object Oriented Programming with ANSI-C |      |
+|     | The Standard C Library            |     |
+|     | Writing Solid Code ... Bug-Free C Programs |     |
+||||
 
 
 ---

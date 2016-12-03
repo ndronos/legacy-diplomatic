@@ -264,4 +264,33 @@
 
 ---
 
+|     | Head First C                        |     |
+| --- | ---                                 | --- |
+||||
+|     | Intro                               |xxvii|
+||||
+|   1 | Getting Started with C              |   1 |
+|   2 | Memory and Pointers                 |  41 |
+| 2.5 | Strings: String theory              |  83 |
+|   3 | Creating Small Tools                | 103 |
+|   4 | Using Multiple Source Files         | 157 |
+|     | C Lab 1: Arduino                    | 207 |
+|   5 | Structs, Unions, and Bitfields      | 217 |
+|   6 | Data Structures and Dynamic Memory  | 267 |
+|   7 | Advanced Functions                  | 311 |
+|   8 | Static and Dynamic Libraries        | 351 |
+|     | C Lab 2: OpenCV                     | 389 |
+|   9 | Processes and System Calls          | 397 |
+|  10 | Interprocess Communications         | 429 |
+|  11 | Sockets and Networking              | 467 |
+|  12 | Threads                             | 501 |
+|     | C Lab 3: Blateroids                 | 523 |
+||||
+|   i | Leftovers                           | 539 |
+|  ii | C Topics                            | 553 |
+||||
+|2012 | David Griffiths, Dawn Griffiths     | 632 |
+
+---
+
 

@@ -214,4 +214,54 @@
 
 ---
 
+|     | C Programming - A Modern Approach ||
+| --- | ---                           | --- |
+||||
+|     | Basic Features of C           ||
+|   1 | Introducing C                 |   1 |
+|   2 | C Fundamentals                |   9 |
+|   3 | Formatted Input/Output        |  37 |
+|   4 | Expressions                   |  53 |
+|   5 | Selection Statements          |  73 |
+|   6 | Loops                         |  99 |
+|   7 | Basic Types                   | 125 |
+|   8 | Arrays                        | 161 |
+|   9 | Functions                     | 183 |
+|  10 | Program Organization          | 219 |
+||||
+|     | Advanced Features of C        ||
+|  11 | Pointers                      | 241 |
+|  12 | Pointers and Arrays           | 257 |
+|  13 | Strings                       | 277 |
+|  14 | The Preprocessor              | 315 |
+|  15 | Writing Large Programs        | 349 |
+|  16 | Structures, Unions, and Enumerations  | 377 |
+|  17 | Advances Uses of Pointers     | 413 |
+|  18 | Declarations                  | 457 |
+|  19 | Program Design                | 483 |
+|  20 | Low-Level Programming         | 509 |
+||||
+|     | The Standard C Library        ||
+|  21 | The Standard Library          | 529 |
+|  22 | Input/Output                  | 539 |
+|  23 | Library Support for Numbers and Character Data  | 589 |
+|  24 | Error Handling                | 627 |
+|  25 | International Features        | 641 |
+|  26 | Miscellaneous Library Functions     | 677 |
+|  27 | Additional C99 Support for Mathematics    | 705 |
+||||
+|     | Reference                     ||
+|   A | C Operators                   | 735 |
+|   B | C99 versus C89                | 737 |
+|   C | C89 versus K&R                | 743 |
+|   D | Standard Library Functions    | 747 |
+|   E | ASCII Character Set           | 801 |
+||||
+|     |  Bibliography                 | 803 |
+|     |  Index                        | 807 |
+||||
+|2008 | K.N. King                     | 830 |
+
+---
+
 

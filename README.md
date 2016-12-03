@@ -1,7 +1,7 @@
 # diploma-c
 
-
-
+## C Book structures
+---
 
 |     | The C Programming Language        |     |
 | --- | ---                               | --- |

@@ -9,6 +9,9 @@
 ||||
 |     | C in a Nutshell                   |     |
 ||||
+|     | Modeling with Data - Tools and Techniques for Scientific Computing    | Ben Klemens 2009 |
+||||
+
 
 |	  | 01 Beginner C					  |		|
 | --- | ---                               | --- |
@@ -695,4 +698,35 @@
 
 ---
 
+|     | Modeling with Data - Tools and Techniques for Scientific Computing    | Ben Klemens 2009 |
+| --- | ---                             | --- |
+|     | Preface                         | xi  |
+|   1 | Statistics in the Modern Day    |   1 |
+||||
+|   I | Computing                       |  15 |
+|   2 | C                               |  17 |
+|   3 | Databases                       |  74 |
+|   4 | Matrices and Models             | 113 |
+|   5 | Graphics                        | 157 |
+|   6 | More Coding Tools               | 189 |
+||||
+|  II | Statistics                      | 217 |
+|   7 | Distributions for Description   | 219 |
+|   8 | Linear Projections              | 264 |
+|   9 | Hypothesis Testing with the CLT | 295 |
+|  10 | Maximum Likelihood Estimation   | 325 |
+|  11 | Monte Carlo                     | 356 |
+||||
+|   A | Environment and makefiles       | 381 |
+|   B | Text Processing                 | 392 |
+|   C | Glossary                        | 419 |
+||||
+|     | Bibliography                    | 435 |
+|     | Index                           | 443 |
+||||
+|519.5| http://modelingwithdata.org     | 470 |
+||||
+
+
+---
 

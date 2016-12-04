@@ -226,7 +226,6 @@
 || History of Programming Languages (vol. 2)                    | Bergin & Gibson 1996 |
 || Real-Time Systems and Programming Languages -  Ada, Real-Time Java and C - Real-Time POSIX (4th ed.) | Burns & Wellings 2009-30 |
 || Excel Add-in Development in C/C++ Applications in Finance    | Dalton 2004 |
-|| Excel Add-In Development in C/C++ Applications in Finance    | Dalton 2004 |
 || Excel Add-In Development in C/C++                            | Dalton 2004 |
 || Financial Applications using Excel add-in Development in C/C++ (2nd ed.) | Dalton 2007 |
 || Fundamentals of Engineering Programming with C and Fortran   | Myler 1998 |
@@ -234,33 +233,22 @@
 || Secure Programming Cookbook for C and C++                    | Viega & Messier 2003 |
 || DB2 Express-C -  The Developer Handbook for XML, PHP, C/C++, Java and .NET | Chen, Chun, Ngan, Ranjan & Sardana 2006 |
 || Computational Finance using C and C#                         | Levy 2008 |
-|| Computational Finance using C and C#                         | Levy 2008 |
-|| Computational Finance using C & C#                           | Levy 2008 |
 || Computational Finance using C & C#                           | Levy 2008 |
 || Practical UML Statecharts in C/C++ (2nd ed.)                 | Samek 2008 |
 || Practical UML Statecharts in C/C++ Event-Driven Programming for Embedded Systems (2nd ed.) | Samek 2008 |
 || MATLAB and C Programming for Trefftz Finite Element Methods  | Qin & Wang 2008 |
 || Cryptography in C and C++ (2nd ed.)                          | Welschenbach 2013 |
-|| Cryptography in C and C++ (2nd ed.)                          | Welschenbach 2013 |
 || Advanced C and C++ Compiling                                 | Stevanovic 2014 |
 || Real-Time Digital Signal Processing from MATLAB to C with the TMS320C6x DSPs (2nd ed.) | Welch, Wright & Morrow 2011 |
 || Memory Management -  Algorithms and Implementation in C/C++  | Blunden 2002 |
-|| Memory Management -  Algorithms and Implementation in C/C++  | Blunden 2002 |
-|| Memory Management -  Algorithms and Implementation in C/C++  | Blunden 2002 |
-|| Memory Management -  Algorithms and Implementation in C/C++  | Blunden 2002 |
-|| Memory Management -  Algorithms and Implementation in C/C++  | Blunden 2002 |
 || Virtual Machine Design and Implementation in C/C++ | Blunden 2002 |
-|| Programming Embedded Systems in C and C++ -  Thinking Inside the Box | Barr 1999 |
-|| Programming Embedded Systems in C and C++                    | Barr 1999 |
+|| Programming Embedded Systems in C and C++ - Thinking Inside the Box | Barr 1999 |
 || Programming Embedded Systems in C and C++                    | Barr 1999 |
 || Writing Apache Modules with Perl and C                       | Stein & MacEachern 1999 |
 || Web Programming Unleashed -  Java, HTML, CGI, Perl, Visual J++, JavaScript, VBScript, ActiveX | Breedlove 1996 |
 || Practical Statecharts in C/C++ Quantum Programming for Embedded Systems | Samek 2002 |
 || Embedded Control Systems in C and C++ -  ... MATLAB          | Ledin 2003 |
 || Ordinary and Partial Differential Equation Routines in C, C++, Fortran, Java, Maple, and MATLAB | Lee & Schiesser 2003 |
-|| Ordinary and Partial Differential Equation Routines in C, C++, Fortran, Java, Maple, and MATLAB | Lee & Schiesser 2003 |
-|| Cryptography in C and C++ (2nd ed.)                          | Welschenbach 2005 |
-|| Cryptography in C and C++ (2nd ed.)                          | Welschenbach 2005 |
 || Cryptography in C and C++ (2nd ed.)                          | Welschenbach 2005 |
 || Just Enough C/C++ Programming                                | Lecky-Thompson 2007 |
 || Programming for Engineers -  A Foundational Approach to Learning C and MATLAB | Bradley 2011 |

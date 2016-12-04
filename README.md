@@ -105,6 +105,197 @@
 |     | Write Great Code Volume 02    ||
 ||||
 
+|     | OCD Library - C Books                     ||
+| --- | ---                                       | --- |
+||||
+|| Programming with C (2nd ed.)                   | Gottfried 1996 |
+|| Programming with C (2nd ed.)                   | Gottfried 1996 |
+|| Programming with C (2nd ed.)                   | Gottfried 1996 |
+|| Data Structures Using C                        | ISRD Group 2006 |
+|| Data Structures with C                         | Lipschutz 2011 |
+|| C The Complete Reference (4th ed.)             | Schildt 2000 |
+|| C The Complete Reference (4th ed.)             | Schildt 2000 |
+|| C The Complete Reference (4th ed.)             | Schildt 2001 |
+|| C The Complete Reference (4th ed.)             | Schildt 2001 |
+|| GCC The Complete Reference                     | Griffith 2002 |
+|| TCP/IP Sockets in C - Practical Guide for Programmers (2nd ed.) | Donahoo & Calvert 2009 |
+|| TCP/IP Sockets in C - Practical Guide for Programmers (2nd ed.) | Donahoo & Calvert 2009 |
+|| C A Reference Manual (5th ed.)                 | Harbison & Steele 2002 |
+|| Image Processing in C (2nd ed.)                | Phillips 1994 |
+|| The C Answer Book (2nd ed.)                    | Tondo & Gimpel 1988 |
+|| The C Puzzle Book                              | Feuer 1982 |
+|| The C Programming Language (1st ed.)           | Kernighan & Ritchie 1978 | (badly formatted)
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| The C Programming Language (2nd ed.)           | Kernighan & Ritchie 1988 |
+|| C for the Microprocessor Engineer              | Cahill 1994 |
+|| Expert C Programming_ Deep C Secrets           | van der Linden 1994 |
+|| Expert C Programming_ Deep C Secrets           | van der Linden 1994 |
+|| Expert C Programming_ Deep C Secrets           | van der Linden 1994 |
+|| Expert C Programming_ Deep C Secrets           | van der Linden 1994 |
+|| Problem Solving and Program Design in C (7th ed.) | Hanly & Koffman 2012 |
+|| Problem Solving and Program Design in C (7th ed.) | Hanly & Koffman 2012 |
+|| C How to Program (7th ed.)                     | Deitel & Deitel 2012 |
+|| C How to Program (7th ed.)                     | Deitel & Deitel 2012 |
+|| C Algorithms for Real-Time DSP                 | Embree 1995 |
+|| Computer Graphics_ C Version (2nd ed.)         | Hearn & Baker 1996 |
+|| Computer Graphics_ C Version (2nd ed.)         | Hearn & Baker 1996 |
+|| Computer Graphics_ C Version (2nd ed.)         | Hearn & Baker 1996 |
+|| Computer Graphics_ C Version (2nd ed.)         | Hearn & Baker 1996 |
+|| System Programming with C and Unix             | Hoover 2009 |
+|| Engineering Problem Solving with C (4th ed.)   | Etter 2012 |
+|| C How to Program (6th ed.)                     | Deitel & Deitel 2009 |
+|| C How to Program (6th ed.)                     | Deitel & Deitel 2009 |
+|| C How to Program (6th ed.)                     | Deitel & Deitel 2009 |
+|| C How to Program (6th ed.)                     | Deitel & Deitel 2009 |
+|| Introduction to Parallel Computing - A Practical Guide with Examples in C | Petersen & Arbenz 2004 |
+|| C Traps and Pitfalls                           | Koenig 1989 |
+|| C Traps and Pitfalls                           | Koenig 1989 |
+|| A Book on C - Programming in C (4th ed.)       | Kelley & Pohl 1998 |
+|| Algorithms in C (3rd ed.) Parts 1-4 - Fundamentals Data Structures Sorting Searching | Sedgewick 1997 |
+|| Functional C                                   | Hartel & Muller 1997 |
+|| C Interfaces and Implementations - Techniques for Creating Reusable Software | Hanson 1996 |
+|| C Interfaces and Implementations - Techniques for Creating Reusable Software | Hanson 1996 |
+|| Algorithms in C                                | Sedgewick 1990 |
+|| The New C Standard_ An Economic and Cultural Commentary | Jones 2003 |
+|| Embedded C                                     | Pont 2002 |
+|| Embedded C                                     | Pont 2002 |
+|| Embedded C                                     | Pont 2002 |
+|| Computer Graphics_ Principles and Practice in C (2nd ed.) | Foleyvan DamFeiner & Hughes 1995 |
+|| C For Engineers and Scientists_ An Introduction to Programming with ANSI C | Bronson 1993 |
+|| Problem Solving and Program Design in C (5th ed.) | Hanly & Koffman 2006 |
+|| C Primer Plus (6th ed.)                        | Prata 2013 |
+|| C Primer Plus (6th ed.)                        | Prata 2013 |
+|| C Programming A Modern Approach (2nd ed.)      | King 2008 |
+|| C Programming A Modern Approach (2nd ed.)      | King 2008 |
+|| C Programming A Modern Approach (2nd ed.)      | King 2008 |
+|| C Programming A Modern Approach (2nd ed.)      | King 2008 |
+|| Applied Cryptography ProtocolsAlgorithmsand Source Code in C (2nd ed.) | Schneier 1996 |
+|| DSP Applications using C and the TMS320C6x DSK | Chassaing 2002 |
+|| Numerical Recipes in C - The Art of Scientific Computing (2nd ed.) | PressTeukolskyVetterling & Flannery 1992 |
+|| Numerical Recipes in C - The Art of Scientific Computing (2nd ed.) | PressTeukolskyVetterling & Flannery 1992 |
+|| Numerical Recipes in C - The Art of Scientific Computing (2nd ed.) | PressTeukolskyVetterling & Flannery 1992 |
+|| Numerical Recipes in C - The Art of Scientific Computing (2nd ed.) | PressTeukolskyVetterling & Flannery 1992 |
+|| Numerical Recipes in C - The Art of Scientific Computing (2nd ed.) | PressTeukolskyVetterling & Flannery 1992 |
+|| Illustrating C (rev. ed.)                      | Alcock 1994 |
+|| Modern Compiler Implementation in C            | Appel 1997 |
+|| Computational Geometry in C (2nd ed.)          | O'Rourke 1998 |
+|| Simulating Ecological and Evolutionary Systems in C | Wilson 2000 |
+|| Data Structures A Pseudocode Approach with C   | Gilberg & Forouzan 2004 |
+|| C Pocket Reference C Syntax and Fundamentals   | Prinz & Kirch-Prinz 2002 |
+|| C Pocket Reference C Syntax and Fundamentals   | Prinz & Kirch-Prinz 2002 |
+|| C in a Nutshell                                | Prinz & Crawford 2005 |
+|| C in a Nutshell                                | Prinz & Crawford 2005 |
+|| C in a Nutshell                                | Prinz & Crawford 2005 |
+|| Advanced C                                     | Hipson 1992 |
+|| Advanced C                                     | Hipson 1992 |
+|| Advanced C                                     | Hipson 1992 |
+|| C Programming Just the FAQs                    | ChisholmHanleyJonesLindner & Work 1995 |
+|| C Programming Just the FAQs                    | ChisholmHanleyJonesLindner & Work 1995 |
+|| Teach Yourself C in 24 Hours (2nd ed.)         | Zhang 2000 |
+|| Teach Yourself C in 21 Days (6th ed.)          | Jones & Aitken 2002 |
+|| Programming in C - A Complete Introduction to the C Programming Language (3rd ed.) | Kochan 2004 |
+|| Programming in C - A Complete Introduction to the C Programming Language (3rd ed.) | Kochan 2004 |
+|| Programming in C - A Complete Introduction to the C Programming Language (3rd ed.) | Kochan 2004 |
+|| C Primer Plus (5th ed.)                        | Prata 2004 |
+|| C Primer Plus (5th ed.)                        | Prata 2004 |
+|| C Primer Plus (5th ed.)                        | Prata 2004 |
+|| Microcontroller Projects in C for the 8051     | Ibrahim 2000 |
+|| Programming 16-bit Microcontrollers in C - Learning to Fly the PIC 24 | Di Jasio 2007 |
+|| Advanced PIC Microcontroller Projects in C - From USB to ZIGBEE with the PIC18F Series | Ibrahim 2008 |
+|| Advanced PIC Microcontroller Projects in C - From USB to ZIGBEE with the PIC18F Series | Ibrahim 2008 |
+|| Programming 32-bit Microcontrollers in C       | Di Jasio 2008 |
+|| Programming 32-bit Microcontrollers in C       | Di Jasio 2008 |
+|| Programming 8-Bit PIC Microcontrollers in C with Interactive Hardware Simulation | Bates 2008 |
+|| C for Dummies (2nd ed.)                        | Gookin 2004 |
+|| C for Dummies (2nd ed.)                        | Gookin 2004 |
+|| C for Dummies (2nd ed.)                        | Gookin 2004 |
+|| C for Dummies (2nd ed.)                        | Gookin 2004 |
+|| C Programming Absolute Beginner's Guide (3rd ed.) | Perry & Miller 2013 |
+|| Data Structures and Algorithm Analysis in C    | Weiss 1994 |
+|| C - An Advanced Introduction                   | Gehani 1985 |
+|| PICmicro MCU C - An Introduction to Programming the Microchip PIC in CCS C | Gardner 2002 |
+|| C Programming for Microcontrollers             | Pardue 2005 |
+|| C Programming for Microcontrollers             | Pardue 2005 |
+|| Object Oriented Programming with ANSI-C        | Schreiner 2011 |
+|| Beginning Programming with C for Dummies       | Gookin 2013 |
+|| Beginning Programming with C for Dummies       | Gookin 2013 |
+|| Beginning Programming with C for Dummies       | Gookin 2013 |
+|| Professional CUDA C Programming                | ChengGrossman & McKercher 2014 |
+|| Embedded C Programming and the Microchip PIC   | BarnettCox & O'Cull 2003 |
+|| Embedded C Programming and the Microchip PIC   | BarnettCox & O'Cull 2003 |
+|| Embedded C Programming and the Atmel AVR (2nd ed.) | BarnettCox & O'Cull 2006 |
+|| Learn C on the Mac                             | Mark 2009 |
+|| Learn C on the Mac                             | Mark 2009 |
+|| Learn C on the Mac                             | Mark 2009 |
+|| Learn C on the Mac                             | Mark 2009 |
+|| packetC Programming                            | JungckDuncan & Mulcahy 2011 |
+|| Learn C on the Mac (2nd ed.)                   | Mark & Bucanek 2012 |
+|| Learn C on the Mac (2nd ed.)                   | Mark & Bucanek 2012 |
+|| Beginning C for Arduino - Learn C Programming for the Arduino and Compatible Microcontrollers | Purdum 2012 |
+|| Beginning C for Arduino - Learn C Programming for the Arduino and Compatible Microcontrollers | Purdum 2012 |
+|| Beginning C (5th ed.)                          | Horton 2013 |
+|| Beginning C (5th ed.)                          | Horton 2013 |
+|| Pointers in C - A Hands-On Approach            | Toppo & Dewan 2013 |
+|| Advanced Topics in C - Core Concepts in Data Structures | Kalicharan 2013 |
+|| C Programming An Advanced Course               | Kalicharan 2008 |
+|| C Programming A Beginner's Course              | Kalicharan 2008 |
+|| Embedded Software Development with C           | QianHaring & Cao 2009 |
+|| 21st Century C                                 | Klemens 2012 |
+|| 21st Century C                                 | Klemens 2012 |
+|| Understanding and Using C Pointers             | Reese 2013 |
+|| Head First C                                   | Griffiths & Griffiths 2012 |
+|| Head First C                                   | Griffiths & Griffiths 2012 |
+|| Head First C                                   | Griffiths & Griffiths 2012 |
+|| Introduction to Computational Modeling using C and Open-Source Tools | Garrido 2013 |
+|| TCP/IP Sockets in C - Practical Guide for Programmers | Donahoo & Calvert 2001 |
+|| Practical C Programming (3rd ed.)              | Oualline 1997 |
+|| Practical C Programming (3rd ed.)              | Oualline 1997 |
+|| Practical C Programming (3rd ed.)              | Oualline 1997 |
+|| Practical C Programming (3rd ed.)              | Oualline 1997 |
+|| Practical C Programming (3rd ed.)              | Oualline 1997 |
+|| Mastering Algorithms with C                    | Loudon 1999 |
+|| C & Data Structures                            | Deshpande & Kakde 2004 |
+|| Numerical Linear Aproximation in C             | Abdelmalek & Malek 2008 |
+|| C and the 8051 (3rd ed.)                       | Schultz 2004 |
+|| Beginning C From Novice to Professional (4th.ed.) | Horton 2006 |
+|| C Programming for the Absolute Beginner (2nd ed.) | Vine 2007 |
+|| Introduction to Embedded Systems Using ANSI C and the Arduino Development Environment | Russell 2010 |
+|| C Programming for Arduino                      | Bayle 2013 |
+|| C Programming for Arduino                      | Bayle 2013 |
+|| Value-Range Analysis of C Programs Towards Proving the Absence of Buffer Overflow Vulnerabilities | Simon 2011 |
+|| C Programming for Scientists and Engineers     | Wood 2002 |
+|| Programming Microcontrollers in C (2nd ed.)    | Sickle 1994 |
+|| Programming Microcontrollers in C (2nd ed.)    | Sickle 2001 |
+|| C Programming for Embedded Systems             | Zurell 2000 |
+|| Test-Driven Development for Embedded C         | Grenning 2011 |
+|| Let Us C (5th ed.)                             | Kanetkar 2004 |
+|| Let Us C (5th ed.)                             | Kanetkar 2004 |
+|| C in Depth (2nd ed.)                           | Srivastava 2009 |
+|| C Programming                                  | Lee 2008 |
+|| C Programming in Linux (2nd ed.)               | Hasknis 2013 |
+|| C Programming in Linux                         | Haskins 2009 |
+|| C Programming in Linux                         | Haskins 2009 |
+|| C Programming in Linux                         | Haskins 2009 |
+|| C Programming in Linux                         | Haskins 2009 |
+|| C Programming in Linux                         | Haskins 2009 |
+|| C Programming in Linux                         | Haskins 2009 |
+|| Exploring C for Microcontrollers A Hands on Approach | ParabShelakeKamat & Naik 2010 |
+|| Exploring C for Microcontrollers A Hands on Approach | ParabShelakeKamat & Naik 2010 |
+|| Art of Programming Contest - C Programming Data Structures Algorithms (2nd ed.) | Arefin 2006 |
+|| C by Dissection (4th ed.)                      | Kelley & Pohl 2000 |
+||||
+
 |     | C Language pt-br              ||
 | --- | ---                           | --- |
 ||||

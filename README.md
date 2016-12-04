@@ -105,6 +105,11 @@
 |     | Write Great Code Volume 02    ||
 ||||
 
+|     | C Language pt-br              ||
+| --- | ---                           | --- |
+||||
+|     | Treinamento em Linguagem C    ||
+||||
 
 ---
 

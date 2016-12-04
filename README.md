@@ -1,5 +1,12 @@
 # diploma-c
 
+|     | C Language Tools Revision                               |     |
+| --- | ---                                                     | --- |
+|     | https://github.com/gitignore/blob/master/C.gitignore    | .gitignore |
+||||
+
+===
+
 |     | C Book structures                 |     |
 | --- | ---                               | --- |
 |     | The C Programming Language        |     |
@@ -267,6 +274,8 @@
 ||||
 
 ---
+---
+
 
 |     | The C Programming Language        |     |
 | --- | ---                               | --- |

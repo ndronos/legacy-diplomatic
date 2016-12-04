@@ -263,7 +263,7 @@
 |     | C Language pt-br              ||
 | --- | ---                           | --- |
 ||||
-|     | Treinamento em Linguagem C    ||
+|     | Treinamento em Linguagem C    | Victorine Viviane Mizrahi 2008 |
 ||||
 
 ---
@@ -698,6 +698,31 @@
 
 ---
 
+|     | Treinamento em Linguagem C      | Victorine Viviane Mizrahi 2008 |
+| --- | ---                             | --- |
+||||
+|     | Prefácio                        | xxi |
+||||
+|   1 | Conceitos básicos               |   1 |
+|   2 | Operadores                      |  33 |
+|   3 | Laços                           |  61 |
+|   4 | Comando de decisão              |  83 |
+|   5 | Funções                         | 109 |
+|   6 | Teclado, driver ansi.sys e redirecionamento  | 157 |
+|   7 | Matrizes                        | 181 |
+|   8 | Novos tipos de dados com struct, typedef, union e enum   | 221 |
+|   9 | Ponteiros                       | 255 |
+|  10 | Ponteiros avançados e operadores bit-a-bit   | 315 |
+|  11 | Operações com arquivos          | 339 |
+||||
+|   A | Iniciando o Visual Studio .Net 2003   | 379 |
+|   B | Tabela ASCII                    | 385 |
+||||
+|     | Índice remissivo                | 397 |
+||||
+
+---
+
 |     | Modeling with Data - Tools and Techniques for Scientific Computing    | Ben Klemens 2009 |
 | --- | ---                             | --- |
 |     | Preface                         | xi  |
@@ -726,7 +751,6 @@
 ||||
 |519.5| http://modelingwithdata.org     | 470 |
 ||||
-
 
 ---
 

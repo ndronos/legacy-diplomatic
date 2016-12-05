@@ -32,6 +32,14 @@
 
 |     | Beginner (Quora)                  |     |
 | --- | ---                               | --- |
+|| Programming in C (3rd Edition) - Stephen Kochan ||
+|| C Primer Plus - Stephen Prata ||
+|| C Programming: A Modern Approach - K. N. King ||
+|| A Book on C - Al Kelley/Ira Pohl ||
+|| The C book - Mike Banahan, Declan Brady and Mark Doran ||
+|| Practical C Programming, 3rd Edition - Steve Oualline ||
+|| C: How to Program (6th Edition) - Paul Deitel & Harvey M. Deitel ||
+|| Head First C - David & Dawn Griffiths ||
 ||||
 
 |     | Intermediate (Quora)              |     |

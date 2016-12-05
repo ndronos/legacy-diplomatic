@@ -40,6 +40,8 @@
 
 |     | Above Intermediate (Quora)        |     |
 | --- | ---                               | --- |
+|| Expert C Programming: Deep C Secrets - Peter van der Linden ||
+|| Advanced C Programming by Example - John W. Perry ||
 ||||
 
 |     | Uncategorized Additional C Programming Books (Quora) |     |

@@ -28,41 +28,41 @@
 
 |     | Reference Style - All Levels (Quora) |     |
 | --- | ---                               | --- |
-|| The C Programming Language (Second edition) - Brian W. Kernighan and Dennis M. Ritchie ||
-|| C: A Reference Manual - Samuel P. Harbison and Guy R. Steele ||
-|| C Pocket Reference (O'Reilly) - Peter Prinz, Ulla Kirch-Prinz ||
-|| C - Traps and Pitfalls - Andrew R. Koenig (Bell Labs) ||
-|| The comp.lang.c FAQ - Steve Summit ||
+|| The C Programming Language (Second edition) | Brian W. Kernighan and Dennis M. Ritchie |
+|| C: A Reference Manual                  | Samuel P. Harbison and Guy R. Steele |
+|| C Pocket Reference (O'Reilly)          | Peter Prinz, Ulla Kirch-Prinz |
+|| C - Traps and Pitfalls                 | Andrew R. Koenig (Bell Labs) |
+|| The comp.lang.c FAQ                    | Steve Summit |
 ||||
 
 |     | Beginner (Quora)                  |     |
 | --- | ---                               | --- |
-|| Spirit of C - Herbert Mullish, Herbert L Cooper ||
-|| Programming in C (3rd Edition) - Stephen Kochan ||
-|| C Primer Plus - Stephen Prata ||
-|| C Programming: A Modern Approach - K. N. King ||
-|| A Book on C - Al Kelley/Ira Pohl ||
-|| The C book - Mike Banahan, Declan Brady and Mark Doran ||
-|| Practical C Programming, 3rd Edition - Steve Oualline ||
-|| C: How to Program (6th Edition) - Paul Deitel & Harvey M. Deitel ||
-|| Head First C - David & Dawn Griffiths ||
+|| Spirit of C                            | Herbert Mullish, Herbert L Cooper |
+|| Programming in C (3rd Edition)         | Stephen Kochan |
+|| C Primer Plus                          | Stephen Prata |
+|| C Programming: A Modern Approach       | K. N. King |
+|| A Book on C                            | Al Kelley/Ira Pohl |
+|| The C book                             | Mike Banahan, Declan Brady and Mark Doran |
+|| Practical C Programming, 3rd Edition   | Steve Oualline |
+|| C: How to Program (6th Edition)        | Paul Deitel & Harvey M. Deitel |
+|| Head First C                           | David & Dawn Griffiths |
 ||||
 
 |     | Intermediate (Quora)              |     |
 | --- | ---                               | --- |
-|| Object-oriented Programming with ANSI-C - Axel-Tobias Schreiner ||
-|| C Interfaces and Implementations - David R. Hanson ||
-|| The C Puzzle Book - Alan R. Feuer ||
-|| The Standard C Library - P.J. Plauger ||
-|| 21st Century C - Ben Klemens ||
-|| Algorithms in C - Robert Sedgewick ||
-|| Pointers on C - Kenneth Reek ||
+|| Object-oriented Programming with ANSI-C | Axel-Tobias Schreiner |
+|| C Interfaces and Implementations       | David R. Hanson |
+|| The C Puzzle Book                      | Alan R. Feuer |
+|| The Standard C Library                 | P.J. Plauger |
+|| 21st Century C                         | Ben Klemens |
+|| Algorithms in C                        | Robert Sedgewick |
+|| Pointers on C                          | Kenneth Reek |
 ||||
 
 |     | Above Intermediate (Quora)        |     |
 | --- | ---                               | --- |
-|| Expert C Programming: Deep C Secrets - Peter van der Linden ||
-|| Advanced C Programming by Example - John W. Perry ||
+|| Expert C Programming: Deep C Secrets   | Peter van der Linden |
+|| Advanced C Programming by Example      | John W. Perry |
 ||||
 
 |     | Uncategorized Additional C Programming Books (Quora) |     |

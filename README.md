@@ -23,6 +23,31 @@
 |     | Modeling with Data - Tools and Techniques for Scientific Computing    | Ben Klemens 2009 |
 ||||
 
+---
+
+
+|     | Reference Style - All Levels (Quora) |     |
+| --- | ---                               | --- |
+||||
+
+|     | Beginner (Quora)                  |     |
+| --- | ---                               | --- |
+||||
+
+|     | Intermediate (Quora)              |     |
+| --- | ---                               | --- |
+||||
+
+|     | Above Intermediate (Quora)        |     |
+| --- | ---                               | --- |
+||||
+
+|     | Uncategorized Additional C Programming Books (Quora) |     |
+| --- | ---                               | --- |
+||||
+
+
+---
 
 |	  | 01 Beginner C					  |		|
 | --- | ---                               | --- |

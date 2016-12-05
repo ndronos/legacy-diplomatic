@@ -36,6 +36,13 @@
 
 |     | Intermediate (Quora)              |     |
 | --- | ---                               | --- |
+|| Object-oriented Programming with ANSI-C - Axel-Tobias Schreiner ||
+|| C Interfaces and Implementations - David R. Hanson ||
+|| The C Puzzle Book - Alan R. Feuer ||
+|| The Standard C Library - P.J. Plauger ||
+|| 21st Century C - Ben Klemens ||
+|| Algorithms in C - Robert Sedgewick ||
+|| Pointers on C - Kenneth Reek ||
 ||||
 
 |     | Above Intermediate (Quora)        |     |

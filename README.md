@@ -8,6 +8,7 @@
 ||||
 |     | https://github.com/github/gitignore/blob/master/C.gitignore   | .gitignore |
 ||||
+|     | `sudo update-alternatives --config cc` | [cmake](http://stackoverflow.com/questions/7031126/switching-between-gcc-and-clang-llvm-using-cmake) |
 
 ===
 

@@ -5,6 +5,7 @@
 |     | https://github.com/gitignore/blob/master/C.gitignore    | .gitignore |
 |     | http://clang.llvm.org                                   | clang |
 |     | http://llvm.org                                         | llvm  |
+|     | https://gcc.gnu.org                                     | gcc |
 ||||
 
 ===

@@ -46,6 +46,13 @@
 | --- | ---                               | --- |
 ||||
 
+|     | Free C Programming Books (Quora)  |     |
+| --- | ---                               | --- |
+|     | The C book ||
+|     | Essential C ||
+|     | The new C standard - an annotated reference ||
+|     | Object Oriented Programming in C (PDF) ||
+||||
 
 https://www.quora.com/Which-are-the-best-books-to-learn-C
 https://www.quora.com/C-programming-language-What-are-some-must-read-books-for-a-C-programmer

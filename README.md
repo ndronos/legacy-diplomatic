@@ -37,6 +37,7 @@
 
 |     | Beginner (Quora)                  |     |
 | --- | ---                               | --- |
+|| Spirit of C - Herbert Mullish, Herbert L Cooper ||
 || Programming in C (3rd Edition) - Stephen Kochan ||
 || C Primer Plus - Stephen Prata ||
 || C Programming: A Modern Approach - K. N. King ||

@@ -28,6 +28,11 @@
 
 |     | Reference Style - All Levels (Quora) |     |
 | --- | ---                               | --- |
+|| The C Programming Language (Second edition) - Brian W. Kernighan and Dennis M. Ritchie ||
+|| C: A Reference Manual - Samuel P. Harbison and Guy R. Steele ||
+|| C Pocket Reference (O'Reilly) - Peter Prinz, Ulla Kirch-Prinz ||
+|| C - Traps and Pitfalls - Andrew R. Koenig (Bell Labs) ||
+|| The comp.lang.c FAQ - Steve Summit ||
 ||||
 
 |     | Beginner (Quora)                  |     |

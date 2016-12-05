@@ -47,6 +47,9 @@
 ||||
 
 
+https://www.quora.com/Which-are-the-best-books-to-learn-C
+https://www.quora.com/C-programming-language-What-are-some-must-read-books-for-a-C-programmer
+
 ---
 
 |	  | 01 Beginner C					  |		|

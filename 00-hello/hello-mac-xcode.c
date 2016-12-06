@@ -2,8 +2,7 @@
 // main.c
 // hello
 //
-// from Learn C as Your First Programming Language
-//
+// from igneus at udemy
 //
 
 #include <stdio.h>

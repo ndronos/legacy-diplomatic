@@ -32,6 +32,7 @@ Alias:
 - https://udemy.com/learn-c-programming-from-scratch-build-20-terminal-apps/
 - 2015
 - 07:00:00
+- [igneus](https://www.udemy.com/user/igneustechnologies/)
 
 ===
 

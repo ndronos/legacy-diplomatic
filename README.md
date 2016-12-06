@@ -1,4 +1,4 @@
-# diploma-c
+# diplomatic
 
 |     | C Language Tools Revision                               |     |
 | --- | ---                                                     | --- |

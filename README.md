@@ -12,6 +12,29 @@
 
 ===
 
+## Learn C as Your First Programming Language
+
+|||| 
+| --- | ---                               | --- |
+| 01  | Before we begin                   ||
+| 02  | Exercise file usage               ||
+| 03  | Basic theory while writing code   ||
+| 04  | Operations and Decisions          ||
+| 05  | Loops and Functions               ||
+| 06  | Coding is fun                     ||
+| 07  | Advance Programming               ||
+| 08  | Fun to code applications          ||
+| 09  | End Note and Quiz                 ||
+
+Alias:
+- Learn C as Your First Programming Language
+- Learn C Programming from Scratch - Build 20 Terminal App
+- https://udemy.com/learn-c-programming-from-scratch-build-20-terminal-apps/
+- 2015
+- 07:00:00
+
+===
+
 |     | C Book structures                 |     |
 | --- | ---                               | --- |
 |     | The C Programming Language        |     |

@@ -1,16 +1,6 @@
 # diplomatic
 
-|     | C Language Tools Revision                               |     |
-| --- | ---                                                     | --- |
-|     | http://clang.llvm.org                                   | clang |
-|     | http://llvm.org                                         | llvm  |
-|     | https://gcc.gnu.org                                     | gcc |
-||||
-|     | https://github.com/github/gitignore/blob/master/C.gitignore   | .gitignore |
-||||
-|     | `sudo update-alternatives --config cc` | [cmake](http://stackoverflow.com/questions/7031126/switching-between-gcc-and-clang-llvm-using-cmake) |
 
-===
 
 ## Learn C as Your First Programming Language
 
@@ -33,6 +23,19 @@ Alias:
 - 2015
 - 07:00:00
 - [igneus](https://www.udemy.com/user/igneustechnologies/)
+
+===
+===
+
+|     | C Language Tools Revision                               |     |
+| --- | ---                                                     | --- |
+|     | http://clang.llvm.org                                   | clang |
+|     | http://llvm.org                                         | llvm  |
+|     | https://gcc.gnu.org                                     | gcc |
+||||
+|     | https://github.com/github/gitignore/blob/master/C.gitignore   | .gitignore |
+||||
+|     | `sudo update-alternatives --config cc` | [cmake](http://stackoverflow.com/questions/7031126/switching-between-gcc-and-clang-llvm-using-cmake) |
 
 ===
 

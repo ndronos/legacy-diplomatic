@@ -1,6 +1,15 @@
 # diplomatic
 
 
+## The C Programming Language
+
+
+Alias:
+- Brian W. Kernighan & Dennis M. Ritchie
+- 1988, 1978
+- 005.13'3
+
+===
 
 ## Learn C as Your First Programming Language
 
@@ -24,8 +33,9 @@ Alias:
 - 07:00:00
 - [igneus](https://www.udemy.com/user/igneustechnologies/)
 
-===
-===
+---
+---
+
 
 |     | C Language Tools Revision                               |     |
 | --- | ---                                                     | --- |

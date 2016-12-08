@@ -51,6 +51,25 @@ Alias:
 |   8 | Statements                        | 259 |
 |   9 | Functions                         | 285 |
 ||||
+|  II | The C Libraries                   | 309 |
+|  10 | Introduction to the Libraries     | 311 |
+|  11 | Standard Language Addtions        | 325 |
+|  12 | Character Processing              | 335 |
+|  13 | String Processing                 | 347 |
+|  14 | Memory Functions                  | 359 |
+|  15 | Input/Output Facilities           | 363 |
+|  16 | General/Utilities                 | 407 |
+|  17 | Mathematical Functions            | 425 |
+|  18 | Time and Date Functions           | 443 |
+|  19 | Control Functions                 | 453 |
+|  20 | Locale                            | 461 |
+|  21 | Extended Integer Types            | 467 |
+|  22 | Floating-Point Environment        | 477 |
+|  23 | Complex Arithmetic                | 483 |
+|  24 | Wide and Multibyte Facilities     | 489 |
+||||
+
+
 
 
 - 551p

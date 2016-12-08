@@ -34,6 +34,15 @@ Alias:
 
 ===
 
+# C A Refence Manual
+
+- 551p
+- Harbison & Steele
+- Samuel P. Harbison III and Guy L. Steele Jr.
+- 2002 5th Edition
+
+===
+
 ## Learn C as Your First Programming Language
 
 |||| 

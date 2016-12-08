@@ -36,6 +36,23 @@ Alias:
 
 # C A Refence Manual
 
+||||
+| --- | ---                               | --- |
+|     | Preface                           | xvii|
+||||
+|   I | The C Language                    |   1 |
+|   1 | Introduction                      |   3 |
+|   2 | Lexical Elements                  |  11 |
+|   3 | The C Processor                   |  43 |
+|   4 | Declarations                      |  73 |
+|   5 | Types                             | 123 |
+|   6 | Conversionsand Representations    | 181 |
+|   7 | Expressions                       | 203 |
+|   8 | Statements                        | 259 |
+|   9 | Functions                         | 285 |
+||||
+
+
 - 551p
 - Harbison & Steele
 - Samuel P. Harbison III and Guy L. Steele Jr.

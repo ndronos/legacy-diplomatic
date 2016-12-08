@@ -68,8 +68,12 @@ Alias:
 |  23 | Complex Arithmetic                | 483 |
 |  24 | Wide and Multibyte Facilities     | 489 |
 ||||
-
-
+|   A | The ASCII Character Set           | 497 |
+|   B | Syntax                            | 499 |
+|   C | Answers to the Exercises          | 513 |
+||||
+|     | Index                             | 521 | 
+||||
 
 
 - 551p

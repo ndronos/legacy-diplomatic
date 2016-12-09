@@ -111,13 +111,30 @@ Alias:
 
 ||||
 | --- | ---                               | --- |
-|||| 
+||||
+|     | Preface                           |  ix |
+||||
+|   1 | Style                             |   3 |
+|   2 | Algorithms and Data Structures    |  29 |
+|   3 | Design and Implementation         |  61 |
+|   4 | Interfaces                        |  85 |
+|   5 | Debugging                         | 117 |
+|   6 | Testing                           | 139 |
+|   7 | Performance                       | 165 |
+|   8 | Portability                       | 189 |
+|   9 | Notation                          | 215 |
+||||
+|     | Epilogue                          | 247 |
+||||
+|   A | Collected Rules                   | 249 |  
+||||
+|     | Index                             | 253 |
+||||
 
 Alias:
 - 272p
 - Brian W. Kernighan & Rob Pike
 - 1999
--
 
 ---
 

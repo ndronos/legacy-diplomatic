@@ -106,6 +106,19 @@ Alias:
 - [igneus](https://www.udemy.com/user/igneustechnologies/)
 
 ---
+
+## The Practice of Programming
+
+||||
+| --- | ---                               | --- |
+|||| 
+
+Alias:
+- 272p
+- Brian W. Kernighan & Rob Pike
+- 1999
+-
+
 ---
 
 

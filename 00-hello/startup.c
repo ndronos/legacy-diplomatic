@@ -2,9 +2,10 @@
 // from C Reference Manual chapter 1
 //
 
-#include <stdio.h> /* defines printf */
-void hello(void)
+#include "hello.h"
+int main(void)
 {
-  printf("Hello!\n");
+  hello();
+  return 0;
 }
 

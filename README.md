@@ -141,6 +141,8 @@ Alias:
 
 ## CS 1917
 
+Class:
+- https://www.openlearning.com/courses/unsw/computing1
 
 
 |     | Playlist over Lectures                            |       |

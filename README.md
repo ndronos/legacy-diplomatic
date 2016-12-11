@@ -1,5 +1,42 @@
 # diplomatic
 
+## CS 1917
+
+Class:
+- https://www.openlearning.com/courses/unsw/computing1
+
+
+|     | Playlist over Lectures                            |       |
+| --- | ---                                               |  ---  |
+|   1 | Higher Computing - Richard Buckland UNSW 2008     | 52:22 |
+|     | Lab0 - Setup                                      |       |
+||||
+
+Textbook:
+- Programming, Problem Solving, and Abstraction with C by Alistair Moffat (2003) Pearson SprintPrint 
+
+- COMP 1917
+- CS1: Higher Computing
+- https://wiki.cse.unsw.edu.au/info/COMP1917
+- https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
+ 
+- Richard Buckland 
+- UNSW Australia (University of New South Wales)
+- https://www.engineering.unsw.edu.au/computer-science-engineering/
+- https://www.youtube.com/user/UNSWComputing
+- https://www.youtube.com/user/BucklandRichard
+- http://www.cse.unsw.edu.au/~richardb/ 
+
+UNSW CSE Courses Structure Path:
+- https://wiki.cse.unsw.edu.au/info/CoreCourses/Syllabus
+
+- COMP 1917 -> COMP 1927 -> COMP 2911 :: (CS1 -> CS2 -> C3)
+- https://wiki.cse.unsw.edu.au/info/COMP1927 -> https://wiki.cse.unsw.edu.au/info/COMP2911
+ 
+- COMP 1917 == COMP 1911 ++ COMP 1921
+- https://wiki.cse.unsw.edu.au/info/COMP1911 ++ https://wiki.cse.unsw.edu.au/info/COMP1921
+
+---
 
 ## The C Programming Language
 
@@ -137,44 +174,6 @@ Alias:
 - 1999
 
 ---
----
-
-## CS 1917
-
-Class:
-- https://www.openlearning.com/courses/unsw/computing1
-
-
-|     | Playlist over Lectures                            |       |
-| --- | ---                                               |  ---  |
-|   1 | Higher Computing - Richard Buckland UNSW 2008     | 52:22 |
-|     | Lab0 - Setup                                      |       |
-||||
-
-Textbook:
-- Programming, Problem Solving, and Abstraction with C by Alistair Moffat (2003) Pearson SprintPrint 
-
-- COMP 1917
-- CS1: Higher Computing
-- https://wiki.cse.unsw.edu.au/info/COMP1917
-- https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
-- 
-- Richard Buckland 
-- UNSW Australia (University of New South Wales)
-- https://www.engineering.unsw.edu.au/computer-science-engineering/
-- https://www.youtube.com/user/UNSWComputing
-- https://www.youtube.com/user/BucklandRichard
-- http://www.cse.unsw.edu.au/~richardb/ 
-
-UNSW CSE Courses Structure Path:
-- https://wiki.cse.unsw.edu.au/info/CoreCourses/Syllabus
--
-- COMP 1917 -> COMP 1927 -> COMP 2911 :: (CS1 -> CS2 -> C3)
-- https://wiki.cse.unsw.edu.au/info/COMP1927 -> https://wiki.cse.unsw.edu.au/info/COMP2911
-- 
-- COMP 1917 == COMP 1911 ++ COMP 1921
-- https://wiki.cse.unsw.edu.au/info/COMP1911 ++ https://wiki.cse.unsw.edu.au/info/COMP1921
-
 ---
 
 |     | C Language Tools Revision                               |     |

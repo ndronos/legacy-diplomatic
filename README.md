@@ -142,7 +142,7 @@ Alias:
 ## CS 1917
 
 
-||||
+
 |     | Playlist over Lectures                            |       |
 | --- | ---                                               |  ---  |
 |   1 | Higher Computing - Richard Buckland UNSW 2008     | 52:22 |
@@ -155,7 +155,7 @@ Alias:
 - https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
 - 
 - Richard Buckland 
-- UNSW Australia
+- UNSW Australia (University of New South Wales)
 - https://www.youtube.com/user/UNSWComputing
 - 
 - COMP 1917 -> COMP 1927 -> COMP 2911 :: (CS1 -> CS2 -> C3)

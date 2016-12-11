@@ -144,10 +144,10 @@ Alias:
 
 
 
-- CS1
 - COMP 1917
-- Higher Computing
+- CS1: Higher Computing
 - https://wiki.cse.unsw.edu.au/info/COMP1917
+- https://www.youtube.com/playlist?list=PL6B940F08B9773B9F
 - 
 - Richard Buckland 
 - UNSW Australia

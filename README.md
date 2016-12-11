@@ -161,7 +161,7 @@ Textbook:
 - UNSW Australia (University of New South Wales)
 - https://www.engineering.unsw.edu.au/computer-science-engineering/
 - https://www.youtube.com/user/UNSWComputing
- 
+- https://www.youtube.com/user/BucklandRichard 
 
 UNSW CSE Courses Structure Path:
 - https://wiki.cse.unsw.edu.au/info/CoreCourses/Syllabus

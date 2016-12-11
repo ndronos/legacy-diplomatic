@@ -149,6 +149,8 @@ Alias:
 |     | Lab0 - Setup                                      |       |
 ||||
 
+Textbook:
+- Programming, Problem Solving, and Abstraction with C by Alistair Moffat (2003) Pearson SprintPrint 
 
 - COMP 1917
 - CS1: Higher Computing

@@ -137,7 +137,21 @@ Alias:
 - 1999
 
 ---
+---
 
+## UNSW 1917
+
+
+
+
+- CS1
+- COMP 1917
+- Higher Computing
+- Richard Buckland 
+- UNSW
+- https://wiki.cse.unsw.edu.au/info/COMP1917
+
+---
 
 |     | C Language Tools Revision                               |     |
 | --- | ---                                                     | --- |

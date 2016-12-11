@@ -163,7 +163,7 @@ Textbook:
 - https://www.youtube.com/user/UNSWComputing
  
 
-Courses Structure Path:
+UNSW CSE Courses Structure Path:
 - https://wiki.cse.unsw.edu.au/info/CoreCourses/Syllabus
 -
 - COMP 1917 -> COMP 1927 -> COMP 2911 :: (CS1 -> CS2 -> C3)

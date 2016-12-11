@@ -162,6 +162,10 @@ Textbook:
 - https://www.engineering.unsw.edu.au/computer-science-engineering/
 - https://www.youtube.com/user/UNSWComputing
  
+
+Courses Structure Path:
+- https://wiki.cse.unsw.edu.au/info/CoreCourses/Syllabus
+-
 - COMP 1917 -> COMP 1927 -> COMP 2911 :: (CS1 -> CS2 -> C3)
 - https://wiki.cse.unsw.edu.au/info/COMP1927 -> https://wiki.cse.unsw.edu.au/info/COMP2911
 - 

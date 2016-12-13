@@ -38,6 +38,12 @@ UNSW CSE Courses Structure Path:
 
 ---
 
+Textbook:
+- Programming, Problem Solving, and Abstraction with C by Alistair Moffat (2003) Pearson SprintPrint 
+
+
+---
+
 ## The C Programming Language
 
 |     | The C Programming Language        |     |

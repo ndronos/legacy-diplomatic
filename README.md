@@ -42,6 +42,27 @@ Textbook:
 - Programming, Problem Solving, and Abstraction with C by Alistair Moffat (2003) Pearson SprintPrint 
 
 
+||||
+|--- | ---                                | --- |
+|    | Preface                            |     |
+||||
+|  1 | Computers and Programs             |   1 |
+|  2 | Numbers In, Numbers Out            |  13 |
+|  3 | Making Choices                     |  29 |
+|  4 | Loops                              |  45 |
+|  5 | Getting Started with Functions     |  63 |
+|  6 | Functions and Pointers             |  83 |
+|  7 | Arrays                             |  99 |
+|  8 | Structures                         | 129 |
+|  9 | Problem Solving Strategies         | 141 |
+| 10 | Dynamic Structures                 | 163 |
+| 11 | File Operations                    | 193 |
+| 12 | Algorithms                         | 203 |
+| 13 | Everything Else                    | 229 |
+||||
+|    | Index                              | 241 |
+||||
+
 ---
 
 ## The C Programming Language
